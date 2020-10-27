@@ -1,7 +1,7 @@
 {
   "name": "root-config",
   "version": "1.0.1",
-  "description": "微前端框架，无三方依赖，可兼容所有浏览器",
+  "description": "微前端框架 micro-frontend-mini 示例主项目",
   "license": "MIT",
   "scripts": {
     "start": "cross-env NODE_ENV=development BUILD_ENV=dev webpack-dev-server --config webpack.dev.js",
